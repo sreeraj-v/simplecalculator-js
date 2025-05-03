@@ -1,5 +1,4 @@
-
-   # simplecalculator-js.                              
+# simplecalculator-js.                              
                 
 
   
